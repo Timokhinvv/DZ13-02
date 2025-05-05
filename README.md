@@ -37,6 +37,17 @@
 3. Зашифруйте созданный раздел с помощью LUKS.
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
+![Screenshot_2025-05-05_18_03_15](https://github.com/user-attachments/assets/15835341-7fc5-49ea-ac52-b332331d7b07)
+![Screenshot_2025-05-05_18_11_18](https://github.com/user-attachments/assets/b1b85789-46a2-465a-b5ca-f34450921bde)
+![Screenshot_2025-05-05_18_16_26](https://github.com/user-attachments/assets/d6ec583b-6a5f-4ac4-b3c3-ba4bfb758cf0)
+![Screenshot_2025-05-05_18_25_32](https://github.com/user-attachments/assets/da01f567-3305-4bca-885b-ab61dc621eaf)
+![Screenshot_2025-05-05_18_37_45](https://github.com/user-attachments/assets/d8127d20-b29d-4348-a887-77c866a4d1a5)
+![Screenshot_2025-05-05_18_37_47](https://github.com/user-attachments/assets/74824ed6-9b50-4f1b-97bd-f8d063453a1e)
+![Screenshot_2025-05-05_18_41_40](https://github.com/user-attachments/assets/b145c149-bfc5-4375-a2c2-2b2c8c038579)
+![Screenshot_2025-05-05_18_44_49](https://github.com/user-attachments/assets/3a36c471-5e02-4de6-8371-0759d863f942)
+![Screenshot_2025-05-05_18_48_12](https://github.com/user-attachments/assets/8dc53658-09a3-4640-a875-8762da204013)
+![Screenshot_2025-05-05_18_48_13](https://github.com/user-attachments/assets/93cb4d19-049a-43b2-ad8f-81771c7b6ad3)
+
 
 
 ## Дополнительные задания (со звёздочкой*)
